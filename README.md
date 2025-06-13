@@ -1,5 +1,28 @@
 # AISOC 2025
 
+# TEAM NAME: Vision Crew
+
+# TEAM MEMBERS:
+1. Diksha Gupta ()
+2. Nainika Khanna ()
+3. Nidhi ()
+4. Parneet Kaur (parneetk0406@gmail.com)
+
+# PROJECT: Mess-Management App
+
+# PROBLEM STATEMENT: 
+The traditional mess management system faces several critical challenges: 
+● Inefficient Meal Recording: Meal records are handwritten, leading to inefficiencies and errors such as lost entries or misrecorded data. Sometimes, students do need to queue to provide their hostel room and roll numbers, which are manually recorded by attendants. This causes delays, particularly during peak hours like noon and dinner. 
+● Error-Prone Billing: Monthly bills are calculated by compiling handwritten records, a process that often results in misplaced entries, miscalculations, or overlooked transactions. 
+● Limited Transparency: Students cannot access their current bill in real time, leading to confusion and disputes at the end of the month. 
+● Guest Meal Tracking Issues: Guests dining at the mess pay on the spot, but tracking these transactions by manually noting them down in the record book is cumbersome. 
+● Menu Communication Gaps: Updates to the daily meal schedule are not effectively communicated, leaving students uninformed about available options. 
+These inefficiencies create frustration for students and overburden mess staff, highlighting the urgent need for a digital overhaul.
+
+# A quick start guide with examples to run the code:
+Will be updated
+
+
 ## ⚙️ Guidelines
 
 - Each team must **fork this repository** before starting development.
