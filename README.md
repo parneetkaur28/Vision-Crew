@@ -3,8 +3,8 @@
 # TEAM NAME: Vision Crew
 
 # TEAM MEMBERS:
-1. Diksha Gupta ()
-2. Nainika Khanna ()
+1. Diksha Gupta (guptadiksha1703@gmail.com)
+2. Nainika Khanna (khannanainika@gmail.com)
 3. Nidhi (nidhirana187@gmail.com)
 4. Parneet Kaur (parneetk0406@gmail.com)
 
