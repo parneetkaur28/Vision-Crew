@@ -5,7 +5,7 @@
 # TEAM MEMBERS:
 1. Diksha Gupta ()
 2. Nainika Khanna ()
-3. Nidhi ()
+3. Nidhi (nidhirana187@gmail.com)
 4. Parneet Kaur (parneetk0406@gmail.com)
 
 # PROJECT: Mess-Management App
